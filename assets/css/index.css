@@ -1,28 +1,14 @@
-header {
-  background-color: grey;
-  height: 100px;
-  width: 100%;
-}
-h1, h3 {
-  margin-top: 0px;
-  text-align: center;
-  padding-top: 20px;
-  color: white;
-}
-.navbar-default .navbar-nav>li>a {
-  font-size: x-large;
+.mainBody {
+  margin-top: 8%;
 }
 footer {
   background-color: grey;
-  margin-top: 5%;
-  height: 50px;
+  height: 40px;
   width: 100%;
-}
-.col-md-3 {
-  border: inset;
+  text-align: center;
 }
 .well {
-  height: 500px!important;  
+  height: 400px!important;
 }
 img {
   float: left;

@@ -14,36 +14,36 @@
     <!--[if lt IE 9]> <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script> <![endif]-->
   </head>
   <body ng-app="Home">
-    <header>
-      <h1>Product</h1>
-    </header>
-    <div class="container-fluid">
-      <nav class="navbar navbar-default">
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          <a class="navbar-brand" href="#">Project name</a>
         </div>
-        <div class="navbar-collapse collapse" id="myNavbar">
+        <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="selected">
+            <li class="active">
               <a href="#Home">Home</a>
             </li>
             <li>
-              <a href="#Product">Product</a>
+              <a href="#Product">product</a>
             </li>
             <li>
-              <a href="#ContactUs">Contact Us</a>
+              <a href="#ContactUs">ContactUs</a>
             </li>
           </ul>
         </div>
-      </nav>
+        <!--/.nav-collapse -->
+      </div>
+    </nav>
 
-      <div class="container mainBody" ng-view=""></div>
-
-    </div>
+    <div class="container-fluid mainBody" ng-view=""></div>
     <footer>
       <h3>Copyright by 3dplm Software</h3>
     </footer>
@@ -55,7 +55,8 @@
     <script src="../scripts/angular-route_1.4.2.js"></script>
     <script src="../scripts/ui-bootstrap.min.js"></script>
     <script src="../scripts/ui-bootstrap-tpls.min.js"></script>
-    <script src="../assets/js/Home.js"></script>
+    <script src="../assets/js/Home.js"></script>  
+
     <script src="../app/controllers/ProductController.js"></script>
   </body>
 </html>
