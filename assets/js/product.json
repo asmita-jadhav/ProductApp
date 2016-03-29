@@ -1,0 +1,76 @@
+[{
+	"ID": 1160942,
+	"Name": "Xiaomi Redmi Note 3 32GB",
+	"Status": "In Stock",
+	"Image": "../assets/images/xiaomi_redmi_note_3_2gb_ram_16gb.jpg",
+	"Description": "The most popular1 phone in last 30 days.The best2 phone in terms of specifications priced around Rs. 12,000.The cheapest phone with Dual-Core processor and 3 GB RAM.The #2 phone priced around Rs. 12,000 with the largest display.The #2 fastest phone with Dual-Core processor and 3 GB RAM.The #3 phone priced around Rs. 12,000 with the most powerful battery.The #3 most high-end phone with Dual-Core processor and 3 GB RAM",
+
+	"sub-images": [
+		"/redmi/1.jpg",
+		"/redmi/2.jpg",
+		"/redmi/3.jpg"
+	],
+	"Comments": "Good",
+	"Likes": 0,
+	"Dislikes": 0
+}, {
+	"ID": 1160943,
+	"Name": "apple_iphone_5s_16gb",
+	"Status": "In Stock",
+	"Image": "../assets/images/apple_iphone_5s_16gb.jpg",
+	"Description": "The first iPhone to feature a fingerprint sensor.The first smartphone powered by a 64-bit processor.The best1 phone priced around Rs. 16,000 with 8 MP camera.The lightest iOS phone.The most popular2 phone with Dual-Core processor and 1 GB RAM The #2 most popular 4 Inch phone.The #2 iOS phone with the highest RAM.The #2 fastest phone priced around Rs. 16,000 with Dual-Core processor.The #3 fastest iOS phone.The #3 most popular phone priced around Rs. 16,000 with 16 GB memory",
+
+	"sub-images": [
+		"/apple/1.jpg",
+		"/apple/2.jpg",
+		"/apple/3.jpg"
+	],
+	"Comments": "Very Good",
+	"Likes": 0,
+	"Dislikes": 0
+}, {
+	"ID": 1160944,
+	"Name": "lenovo_k4_note.v4",
+	"Status": "In Stock",
+	"Image": "../assets/images/lenovo_k4_note.v4.jpg",
+	"Description": "The most popular1 phone with 13 MP Camera.The best2 phone priced around Rs. 12,000 with Octa-Core Processor.The #2 phone in terms of specifications priced around Rs. 12,000.The #2 most popular phone with 3 GB RAM.The #2 Dual SIM phone with Octa-Core Processor and the highest RAM.The #3 most popular phone in last 30 days.The #3 phone priced around Rs. 12,000 with the highest camera resolution",
+
+	"sub-images": [
+		"/lenova/1.jpg",
+		"/lenova/2.jpg",
+		"/lenova/3.jpg"
+	],
+	"Comments": "",
+	"Likes": 0,
+	"Dislikes": 0
+}, {
+	"ID": 1160945,
+	"Name": "samsung_galaxy_j5.v3",
+	"Status": "Out of Stock",
+	"Image": "../assets/images/samsung_galaxy_j5.v3.jpg",
+	"Description": "The most popular 5 Inch phone.The best2 Samsung phone priced around Rs. 10,000.The #2 most popular phone with 8 GB memory.The #2 fastest Samsung phone priced around Rs. 10,000.The #3 most popular phone with Quad-Core processor.The #3 thinnest 5 Inch Samsung phone",
+
+	"sub-images": [
+		"/samsung/1.jpg",
+		"/samsung/2.jpg",
+		"/samsung/3.jpg"
+	],
+	"Comments": "",
+	"Likes": 0,
+	"Dislikes": 0
+}, {
+	"ID": 1160946,
+	"Name": "leeco_letv_le_1s.v2",
+	"Status": "In Stock",
+	"Image": "../assets/images/leeco_letv_le_1s.v2.jpg",
+	"Description": "The most popular1 phone priced around Rs. 10,000.The fastest Dual SIM phone with 13 MP Camera.The #2 phone in terms of specifications priced around Rs. 10,000.The #2 fastest phone with Octa-Core Processor.The #3 fastest phone.The #3 most popular phone with 13 MP Camera.The #3 thinnest phone priced around Rs. 10,000 with 3 GB RAM",
+
+	"sub-images": [
+		"/leeco/1.jpg",
+		"/leeco/2.jpg",
+		"/leeco/3.jpg"
+	],
+	"Comments": "",
+	"Likes": 0,
+	"Dislikes": 0
+}]

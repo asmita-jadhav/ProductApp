@@ -7,38 +7,41 @@
     <title>Product App</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.1.0/octicons.min.css">
-<link rel="stylesheet" href="../assets/css/index.css" >
-    <!--[if lt IE 9]>
-      <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="../assets/css/index.css">
+
+    <!--[if lt IE 9]> <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script> <![endif]-->
   </head>
-  <body>
+  <body ng-app="Home">
     <header>
-    <h1>Product</h1>
+      <h1>Product</h1>
     </header>
     <div class="container-fluid">
       <nav class="navbar navbar-default">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-      		    <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
-          <div class="navbar-collapse collapse" id="myNavbar">
-            <ul class="nav navbar-nav">
-              <li  class="selected"><a href="#">Home</a></li>
-              <li><a href="#">Product</a></li>
-      		    <li><a href="#">Contact Us</a></li>
-            </ul>
-          </div>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="myNavbar">
+          <ul class="nav navbar-nav">
+            <li class="selected">
+              <a href="#Home">Home</a>
+            </li>
+            <li>
+              <a href="#Product">Product</a>
+            </li>
+            <li>
+              <a href="#ContactUs">Contact Us</a>
+            </li>
+          </ul>
+        </div>
       </nav>
 
-    <div class="container mainBody">
-
-    </div>
+      <div class="container mainBody" ng-view=""></div>
 
     </div>
     <footer>
@@ -47,5 +50,12 @@
 
     <script src="https://cdn.jsdelivr.net/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <script src="../scripts/angular_1.4.2.js"></script>
+    <script src="../scripts/angular-route_1.4.2.js"></script>
+    <script src="../scripts/ui-bootstrap.min.js"></script>
+    <script src="../scripts/ui-bootstrap-tpls.min.js"></script>
+    <script src="../assets/js/Home.js"></script>
+    <script src="../app/controllers/ProductController.js"></script>
   </body>
 </html>
