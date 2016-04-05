@@ -1,76 +1,101 @@
 [{
-	"ID": 1160942,
-	"Name": "Xiaomi Redmi Note 3 32GB",
-	"Status": "In Stock",
-	"Image": "../assets/images/xiaomi_redmi_note_3_2gb_ram_16gb.jpg",
-	"Description": "The most popular1 phone in last 30 days.The best2 phone in terms of specifications priced around Rs. 12,000.The cheapest phone with Dual-Core processor and 3 GB RAM.The #2 phone priced around Rs. 12,000 with the largest display.The #2 fastest phone with Dual-Core processor and 3 GB RAM.The #3 phone priced around Rs. 12,000 with the most powerful battery.The #3 most high-end phone with Dual-Core processor and 3 GB RAM",
+  "Name": "Xiaomi Redmi Note 3 32GB",
+  "Status": "In Stock",
+  "Image": "../assets/images/xiaomi_redmi_note_3_2gb_ram_16gb.jpg",
+  "Description": "The Xiaomi Redmi Note 3 Smartphone has completely changed the way you share experiences and memories. It presents a new face of performance with the Snapdragon 650, an ultra-fast fingerprint sensor and a premium metal body that adds to its looks. Its high-performance processor leverages ARM’s flagship Cortex-A72 cores that ensures that your apps are alive in a split-second. Game-lovers will rejoice the next-gen Adreno 510 graphics processor that delivers an astounding gaming experience. Together with MIUI 7’s system-level speed optimisation, this Smartphone responds to your touch in a jiffy. It’s not just a Smartphone, it’s a new way of thinking what a Smartphone can achieve. Shop online at the Amazon India Exclusive sale and grab the Redmi Note 3 at unbelievable prices online.The World at Your Fingertips, Shop at the Amazon Exclusive Redmi Note 3 Sale.It’ s not just setting new standards for Smartphone battery life,  it lets you explore the world sans any limits by supporting a newer and faster 802.11 ac Wi - Fi.Shop online at the Amazon India Exclusive sale and grab your dream phone at the best prices online.The Redmi Note 3 2 GB + 16 GB is available at INR 9998 and the Redmi Note 3 3 GB + 32 GB is available at INR 11998 during the sale on 9 th March at 2 PM.",
 
-	"sub-images": [
-		"/redmi/1.jpg",
-		"/redmi/2.jpg",
-		"/redmi/3.jpg"
-	],
-	"Comments": "Good",
-	"Likes": 0,
-	"Dislikes": 0
+  "subImages": [
+    "../assets/images/redmi/1.jpg",
+    "../assets/images/redmi/2.jpg",
+    "../assets/images/redmi/3.jpg"
+  ],
+  "thumbImages": [
+    "../assets/images/redmi/thumb-1.jpg",
+    "../assets/images/redmi/thumb-2.jpg",
+    "../assets/images/redmi/thumb-3.jpg"
+  ],
+
+  "Comments": "Good",
+  "Likes": 0,
+  "Dislikes": 0
 }, {
-	"ID": 1160943,
-	"Name": "apple_iphone_5s_16gb",
-	"Status": "In Stock",
-	"Image": "../assets/images/apple_iphone_5s_16gb.jpg",
-	"Description": "The first iPhone to feature a fingerprint sensor.The first smartphone powered by a 64-bit processor.The best1 phone priced around Rs. 16,000 with 8 MP camera.The lightest iOS phone.The most popular2 phone with Dual-Core processor and 1 GB RAM The #2 most popular 4 Inch phone.The #2 iOS phone with the highest RAM.The #2 fastest phone priced around Rs. 16,000 with Dual-Core processor.The #3 fastest iOS phone.The #3 most popular phone priced around Rs. 16,000 with 16 GB memory",
 
-	"sub-images": [
-		"/apple/1.jpg",
-		"/apple/2.jpg",
-		"/apple/3.jpg"
-	],
-	"Comments": "Very Good",
-	"Likes": 0,
-	"Dislikes": 0
+  "Name": "apple_iphone_5s_16gb",
+  "Status": "In Stock",
+  "Image": "../assets/images/apple_iphone_5s_16gb.jpg",
+  "Description": "The Apple iPhone 5S takes the cake for being one of the most advanced smartphones of recent times. It features an amazing camera that lets you capture some great pictures and incorporates high-quality and powerful components for a superlative performance. As for the design, it pleases anyone who’s looking for a sleek and stylish phone.Powerful Processor.The Apple iPhone 5S is equipped with a powerful A7 processor that is based on the 64-bit architecture. The A7 chip has double the capacity of the A6 chip, which means you will be able to enjoy multimedia games with complete 3D effects. This device also delivers a faster CPU performance and enables you to multitask by launching more than a couple of applications at the same time.Motion Detecting Coprocessor.The iPhone 5S has a motion detecting coprocessor, the M7 coprocessor, that senses motion-oriented data. So when you're consulting Maps while travelling or evaluating your performance on the treadmill with the aid of workout applications, the co-processor automatically starts functioning and takes the load off the main processor. It detects when you park the car and start walking towards your destination and automatically switches from driving to walking while you are navigating. What’s more, the coprocessor recognises if the device has not been picked up for a while and reduces network usage to save on battery.High Resolution Touchscreen.The Apple smartphone features a 4-inch Retina multi-touch screen that gives you an enhanced visual experience. It has a high screen resolution of 1136 x 640 pixels and colour depth of 16M. The contrast ratio of the display is 800:1 and it has an oleophobic coating to withstand fingerprints. These features bring your photos, movies and videos to life and displays them with utmost clarity.Extremely Stylish What makes this advanced smartphone from Apple distinct from other phones is its precision construction mark in a sleek glass and metal golden colour aluminium casing. A sapphire crystal is fitted on the home button as well as near the iSight camera for protecting it. The sleek and light device measures 7.6mm in thickness and is great for one-handed use. You can choose from stunning shades like gold, silver and space grey.Keep Memories Fresh with iSight.The iPhone 5S comes with two superior cameras. The primary camera with a resolution of 8MP features the iSight technology that enables you to capture crystal clear snaps. Its burst mode feature lets you click 10 snapshots in one second and its sensor is relatively large to allow more light to pass through it. Both the white LED and amber LED deployed in the device, adjust the flash intensity and colour temperature of your picture for optimum results. You can capture panoramic shots and square pictures and even enhance your images with the help of multiple filters available in the phone. It is possible to zoom while recording a video and capture HD videos at the rate of 120 frames per second. Auto image stabilisation is another one of this iPhone’s benefits, which makes sure your images have less noise. This feature also does away with the blurring effect caused due to hand and camera shake.",
+
+  "subImages": [
+    "../assets/images/apple/1.jpg",
+    "../assets/images/apple/2.jpg",
+    "../assets/images/apple/3.jpg"
+  ],
+  "thumbImages": [
+    "../assets/images/apple/thumb-1.jpg",
+    "../assets/images/apple/thumb-2.jpg",
+    "../assets/images/apple/thumb-3.jpg"
+  ],
+  "Comments": "Very Good",
+  "Likes": 0,
+  "Dislikes": 0
 }, {
-	"ID": 1160944,
-	"Name": "lenovo_k4_note.v4",
-	"Status": "In Stock",
-	"Image": "../assets/images/lenovo_k4_note.v4.jpg",
-	"Description": "The most popular1 phone with 13 MP Camera.The best2 phone priced around Rs. 12,000 with Octa-Core Processor.The #2 phone in terms of specifications priced around Rs. 12,000.The #2 most popular phone with 3 GB RAM.The #2 Dual SIM phone with Octa-Core Processor and the highest RAM.The #3 most popular phone in last 30 days.The #3 phone priced around Rs. 12,000 with the highest camera resolution",
 
-	"sub-images": [
-		"/lenova/1.jpg",
-		"/lenova/2.jpg",
-		"/lenova/3.jpg"
-	],
-	"Comments": "",
-	"Likes": 0,
-	"Dislikes": 0
+  "Name": "lenovo_k4_note.v4",
+  "Status": "In Stock",
+  "Image": "../assets/images/lenovo_k4_note.v4.jpg",
+  "Description": "Those who love to watch movies on the big screen, for them the Lenovo K4 NOTE works like a breeze. The USP of the handset is its ability to fetch you a wider cinematic experience, powered by VR technology from Lenovo. Courtesy of TheaterMax that delivers you a mesmerising viewing experience on a super-size virtual screen. All you need to do is to use the VR glass for that unbelievable movie experience, right at your home. The phone comes equipped with a surround sound system which delivers you immersive audio experience. With a vibrant 5.5 inch full HD IPS display with 403 ppi and 178 degree viewing angle and DOLBY ATMOS enabled large chambered stereo speakers, the Lenovo K4 NOTE turns into your perfect companion for a journey, influenced by mobile gaming, web browsing and video playback.Power That Forms the DNA of the Device.The Smartphone houses a 64-bit Octa Core MT6753 processor that works in perfect harmony with 3GB DDR3 RAM. The result is smooth and seamless performance for all your apps, games, internet and entertainment activities.Digital Imaging at Its Best.The handset comes equipped with a 13MP primary camera and a 5MP secondary camera. Capture the memorable moments of your life in full details both in stills and videos. Take selfies whenever you like, that too, in optimum clarity.Store as Much Data You Like .Accommodate a large pool of movies, music, photos and other date on the handset’s 16GB internal eMMC storage. The phone also supports memory expansion of up to 128GB using microSD memory card. Isn’t it amazing to carry your world of entertainment on the Lenovo K4 NOTE in a completely reliable and easily accessible way?Experience the Advantage of Advanced Input and Recording Full marks need to be given to Lenovo for using an innovative 3-mic system that works with the Wolfson audio codec delivering astounding audio experience. The technology helps in filtering out ambient noise and enhances sound input and recording.Stay Connected All the Time with 4G LTE Network With lightning fast 4G LTE connectivity, you can access the web at superior speed. Experience faster data downloading and uploading from anywhere you like. Browse the internet on the move at a speed that you have never had before.Intuitive OS, Strong Battery and Solid GPU Make the Device a Must-have for All.The Lenovo VIBE K4 NOTE runs on Android 5.1 Lollipop OS giving you a flawless user-experience. The 3300 mAh Li-polymer battery keeps the device in action for stretched hours. With the Mali T720-MP3 GPU, you can play games and videos with zero lag.",
+
+  "subImages": [
+    "../assets/images/lenova/1.jpg",
+    "../assets/images/lenova/2.jpg",
+    "../assets/images/lenova/3.jpg"
+  ],
+  "thumbImages": [
+    "../assets/images/lenova/thumb-1.jpg",
+    "../assets/images/lenova/thumb-2.jpg",
+    "../assets/images/lenova/thumb-3.jpg"
+  ],
+  "Comments": "",
+  "Likes": 0,
+  "Dislikes": 0
 }, {
-	"ID": 1160945,
-	"Name": "samsung_galaxy_j5.v3",
-	"Status": "Out of Stock",
-	"Image": "../assets/images/samsung_galaxy_j5.v3.jpg",
-	"Description": "The most popular 5 Inch phone.The best2 Samsung phone priced around Rs. 10,000.The #2 most popular phone with 8 GB memory.The #2 fastest Samsung phone priced around Rs. 10,000.The #3 most popular phone with Quad-Core processor.The #3 thinnest 5 Inch Samsung phone",
 
-	"sub-images": [
-		"/samsung/1.jpg",
-		"/samsung/2.jpg",
-		"/samsung/3.jpg"
-	],
-	"Comments": "",
-	"Likes": 0,
-	"Dislikes": 0
+  "Name": "samsung_galaxy_j5.v3",
+  "Status": "Out of Stock",
+  "Image": "../assets/images/samsung_galaxy_j5.v3.jpg",
+  "Description": "The Galaxy S5 is one of the most striking devices Samsung has ever made. Unlike previous smooth-finish Samsung smartphones, the Galaxy S5 features a perforated, slightly rubberised backplate and is available in more striking colour options.The device is also slightly chunkier and heavier than the previous Samsung handsets, measuring in at 142x73x8.1mm and weighing 145g. By comparison this S4 measured 137x70x7.9mm and weighed 130g.Its increased size is likely because Samsung has built the Galaxy S5 to be IP67 certified. This means the Galaxy S5 is scratch, dust and even water resistant. We didn't get a chance to test the water resistance, but found the Galaxy S5 does feel significantly moer solidly built than previous Galaxy handsets.The Samsung Galaxy S5 also keeps the same ergonomic curved shape as the Galaxy S4 and Galaxy S3, so despite its bigger size, it still felt comfortable to hold.",
+
+  "subImages": [
+    "../assets/images/samsung/1.jpg",
+    "../assets/images/samsung/2.jpg",
+    "../assets/images/samsung/3.jpg"
+  ],
+  "thumbImages": [
+    "../assets/images/samsung/thumb-1.jpg",
+    "../assets/images/samsung/thumb-2.jpg",
+    "../assets/images/samsung/thumb-3.jpg"
+  ],
+  "Comments": "",
+  "Likes": 0,
+  "Dislikes": 0
 }, {
-	"ID": 1160946,
-	"Name": "leeco_letv_le_1s.v2",
-	"Status": "In Stock",
-	"Image": "../assets/images/leeco_letv_le_1s.v2.jpg",
-	"Description": "The most popular1 phone priced around Rs. 10,000.The fastest Dual SIM phone with 13 MP Camera.The #2 phone in terms of specifications priced around Rs. 10,000.The #2 fastest phone with Octa-Core Processor.The #3 fastest phone.The #3 most popular phone with 13 MP Camera.The #3 thinnest phone priced around Rs. 10,000 with 3 GB RAM",
 
-	"sub-images": [
-		"/leeco/1.jpg",
-		"/leeco/2.jpg",
-		"/leeco/3.jpg"
-	],
-	"Comments": "",
-	"Likes": 0,
-	"Dislikes": 0
+  "Name": "leeco_letv_le_1s.v2",
+  "Status": "In Stock",
+  "Image": "../assets/images/leeco_letv_le_1s.v2.jpg",
+  "Description": "LeEco has been able to create a lot of buzz in the Indian market over the past couple of weeks, not because of its flagship Le Max but the mid-range Le 1s. The general perception is that the phone has managed to hit a sweet spot with pricing and specs. So is the LeEco Le 1s really giving you more bang for your buck? LeEco Le 1s To start with, Le 1s does not look or feel like a phone that has caused only a Rs 10,999 dent in your bank account. It’s solid metallic body with a flattened edges, and a matte finish is both classy and functional. It also features a unique mirror-based fingerprint scanner, which shines and gives the phone a unique ID.Specs:  5.5-inch Full HD IPS LCD display | MediaTek Helio X10 octa-core processor clocked at 2.2GHz | 3GB RAM, 32GB | 13 megapixel rear camera + 5 megapixel front camera| Android 5.0.2 with EUI|",
+
+  "subImages": [
+    "../assets/images/leeco/1.jpg",
+    "../assets/images/leeco/2.jpg",
+    "../assets/images/leeco/3.jpg"
+  ],
+  "thumbImages": [
+    "../assets/images/leeco/thumb-1.jpg",
+    "../assets/images/leeco/thumb-2.jpg",
+    "../assets/images/leeco/thumb-3.jpg"
+  ],
+  "Comments": "",
+  "Likes": 0,
+  "Dislikes": 0
 }]

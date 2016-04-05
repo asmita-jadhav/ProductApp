@@ -7,10 +7,22 @@ footer {
   width: 100%;
   text-align: center;
 }
-.well {
-  height: 400px!important;
-}
 img {
   float: left;
   margin-right: 5%;
+}
+.btn-right {
+  float: right;
+}
+.productContainer {
+  height: 350px;
+  max-height: 1500px;
+}
+#description {
+  font-size: 50%;
+}
+@media screen and (min-width: 640px) {
+  #description {
+    font-size: 100%;
+  }
 }
