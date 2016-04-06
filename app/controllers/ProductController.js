@@ -1,12 +1,21 @@
-homeModule.controller('ProductController', function($scope, $http) {
+homeModule.controller('ProductController', function($scope, $http, $location) {
 
   $scope.products = [];
   $http.get('../assets/js/product.json').then(function(response) {
     $scope.products = response.data;
   });
   $scope.$on('onRepeatLast', function(scope, element, attributes) {
-    angular.element(element).readmore(attributes);    
+    angular.element(element).readmore(
+      attributes, {
+        beforeToggle: function(trigger, element, expanded) {
+          angular.element(element).hide();
+        }
+      });
   });
+
+  $scope.go = function(path) {
+    $location.path(path);
+  };
 });
 
 

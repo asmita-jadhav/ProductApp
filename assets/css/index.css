@@ -26,3 +26,19 @@ img {
     font-size: 100%;
   }
 }
+
+.less {
+  word-wrap: break-word;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+.text-size {
+  display: block;
+  text-align: right;
+  padding-top: 10px;
+  color: blue !important;
+  cursor: pointer;
+}
