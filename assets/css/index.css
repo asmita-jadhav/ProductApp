@@ -42,3 +42,6 @@ img {
   color: blue !important;
   cursor: pointer;
 }
+.readmorelink{
+display: none;
+}

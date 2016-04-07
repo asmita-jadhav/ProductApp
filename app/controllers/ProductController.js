@@ -5,12 +5,7 @@ homeModule.controller('ProductController', function($scope, $http, $location) {
     $scope.products = response.data;
   });
   $scope.$on('onRepeatLast', function(scope, element, attributes) {
-    angular.element(element).readmore(
-      attributes, {
-        beforeToggle: function(trigger, element, expanded) {
-          angular.element(element).hide();
-        }
-      });
+    angular.element(element).readmore(attributes);
   });
 
   $scope.go = function(path) {
