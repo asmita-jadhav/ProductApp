@@ -26,22 +26,33 @@ img {
     font-size: 100%;
   }
 }
-
 .less {
   word-wrap: break-word;
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
 }
-
-
 .text-size {
   display: block;
   text-align: right;
   padding-top: 10px;
-  color: blue !important;
+  color: SILVER !important;
   cursor: pointer;
 }
-.readmorelink{
-display: none;
+.readmorelink {
+  display: none;
+}
+#productsView {
+  margin-top: 2%;
+}
+.productContainer {
+  position: relative;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+.productContainer:hover {
+  transform: scale(1.2, 1.2);
+}
+.productsInternal {
+  background-color: white;
 }

@@ -1,11 +1,13 @@
-<div ng-controller="ProductController">
-  <div ng-repeat="product in products" class="well productContainer col-md-4 col-lg-4 col-sm-6 col-xs-6">
-    <div class="col-md-6 col-lg-6 col-sm-6 col-xs-6">
-      <img src="{{product.Image}}" alt="{{product.Name}}" class="img-responsive"/>
+<div ng-controller="ProductController" id="productsView">
+  <div ng-repeat="product in products" class="productContainer col-sm-4"> <!--col-md-4 col-lg-4 col-sm-6 col-xs-6-->
+    <div class="well col-sm-12">
+      <div class="col-md-6 col-lg-6 col-sm-6 col-xs-6">
+        <img src="{{product.Image}}" alt="{{product.Name}}" class="img-responsive"/>
+      </div>
+      <div read-more more-link="<a class='readmorelink' href='#/Product/{{products.indexOf(product)}}'>Show more..</a>">
+        {{product.Description}}
+      </div>
+      <a href="#/Product/{{products.indexOf(product)}}" class="text-size">Read more..</a>
     </div>
-    <div read-more more-link="<a class='readmorelink' href='#/Product/{{products.indexOf(product)}}'>Show more..</a>">
-      {{product.Description}}
-    </div>
-    <a href="#/Product/{{products.indexOf(product)}}" class="text-size">Read more..</a>
   </div>
 </div>
