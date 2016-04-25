@@ -14,6 +14,15 @@ homeModule.controller('ProductDetailsController', ['$scope', '$http', '$routePar
     } else {
       $scope.nextItem = 0;
     }
+    $scope.incrementLikes = function(product) {
+      product.Likes++;
+    };
+    $scope.decrementLikes = function(product) {
+      product.Dislikes++;
+    };
+
   });
+
+
 
 }]);

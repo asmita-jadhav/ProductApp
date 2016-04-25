@@ -28,6 +28,17 @@
       <h3>Description</h3>
       {{products[whichItem].Description}}
     </div>
+
+<div class="row">
+{{products[whichItem].Likes}}
+<a class="btn-success btn-sm" href="" ng-click="incrementLikes(products[whichItem])">
+<i class="fa fa-thumbs-up" aria-hidden="true"></i></a>
+{{products[whichItem].Dislikes}}
+<a class="btn-danger btn-sm" href="" ng-click="decrementLikes(products[whichItem])">
+<i class="fa fa-thumbs-down" aria-hidden="true"></i></a>
+<h5>Your Comment</h5>
+<textarea name="comment" rows="8" cols="50"></textarea>
+</div>
   </div>
   <div id="lightbox" class="lightbox" style="display: none; top: 650px; left: 0px;">
     <div class="lb-outerContainer" style="width: 803px; height: 803px;">
